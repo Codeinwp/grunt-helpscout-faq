@@ -1,0 +1,38 @@
+{
+  "name": "grunt-faq-builder",
+  "description": "The FAQ builder",
+  "version": "0.1.0",
+  "homepage": "https://github.com/post/module",
+  "author": {
+    "name": "Oleksandr",
+    "email": "smulsky@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/post/module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/post/module/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/post/module/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
