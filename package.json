@@ -1,5 +1,5 @@
 {
-  "name": "grunt-faq-builder",
+  "name": "grunt-helpscout-faq",
   "description": "The readme FAQ builder based on the HelpScout Docs api.",
   "version": "0.1.0",
   "homepage": "https://github.com/Codeinwp/grunt-helpscout-faq/",
@@ -22,9 +22,6 @@
   ],
   "engines": {
     "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt test"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.9.2",
