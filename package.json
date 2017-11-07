@@ -1,7 +1,7 @@
 {
   "name": "grunt-helpscout-faq",
   "description": "The readme FAQ builder based on the HelpScout Docs api.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/Codeinwp/grunt-helpscout-faq/",
   "author": {
     "name": "ThemeIsle",
