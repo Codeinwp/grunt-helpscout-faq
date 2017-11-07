@@ -49,19 +49,19 @@ A string representing a the WordPress.org readme.txt file's path relative to Gru
 
 #### options.api_key
 Type: `String`
-Default value: ``
+Default value: `''`
 
 A string value representing the HelpScout Docs api key.
  
 #### options.collection_id
 Type: `String`
-Default value: ``
+Default value: `''`
 
 A string value representing the HelpScout Docs collection id, where the faq will be fetched from. 
 
 #### options.category_id
 Type: `String`
-Default value: ``
+Default value: `''`
 
 A string value representing the HelpScout Docs category id, where the faq items will be fetched from  .
 
