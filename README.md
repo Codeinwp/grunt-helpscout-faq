@@ -67,10 +67,9 @@ A string value representing the HelpScout Docs category id, where the faq items 
 
 #### options.template
 Type: `String`
-Default value: `= {article_title} = 
+Default value: ```= {article_title} = 
                  [{article_link}]({article_link}) 
-                
-                 `
+                ```
 A string representing the template used for a single FAQ item in the readme.txt file. You can use the available magic tags: article_title and article_link.
 
 
